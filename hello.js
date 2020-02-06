@@ -1,4 +1,4 @@
-# Java Script Hello 
+// Java Script Hello 
 
 console.log("Hello");
 
