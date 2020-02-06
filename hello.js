@@ -1,5 +1,5 @@
 # Java Script Hello 
 
-alert("Hello");
+console.log("Hello");
 
-alert('Hello, World');
+console.log('Hello, World');
