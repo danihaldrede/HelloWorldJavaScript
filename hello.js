@@ -1,3 +1,5 @@
 # Java Script Hello 
 
-print "
+console.log('Hello!');
+
+console.log('Hello, World');
